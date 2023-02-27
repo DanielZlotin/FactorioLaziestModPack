@@ -38,7 +38,16 @@
     "aai-signal-transmission",
     "jetpack",
     "KS_Combat_Updated",
-    "Kombat_Drones"
+    "Kombat_Drones",
+    "? aai-loaders",
+    "? shield-projector",
+    "? ArmouredBiters",
+    "? alien-biomes",
+    "? alien-biomes-hr-terrain",
+    "? aai-containers",
+    "? Cold_biters",
+    "? Explosive_biters",
+    "? Space_Exploration"
   ],
   "license": "MIT",
   "version": "1.0.2"
