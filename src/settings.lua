@@ -30,6 +30,7 @@ end
 
 if mods["MIRV"] then
     setSetting("mirv-auto-launch", false)
+    setSetting("mirv-pollution-on-detonation", false)
 end
 
 if mods["Automatic_Train_Painter"] then
@@ -51,5 +52,5 @@ if mods["jetpack"] then
 end
 
 if mods["RateCalculator"] then
-    setSetting("rcalc-dismiss-tool-on-selection", false)
+    setSetting("rcalc-dismiss-tool-on-selection", true)
 end
