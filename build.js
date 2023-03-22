@@ -1,3 +1,8 @@
+/**
+ * https://lua-api.factorio.com/latest/
+ * https://github.com/wube/factorio-data/tree/master/base/prototypes
+ */
+
 const {execSync} = require('child_process');
 const {readFileSync, writeFileSync} = require('fs');
 const {dirname} = require('path')
