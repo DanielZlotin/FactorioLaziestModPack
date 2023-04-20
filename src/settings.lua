@@ -54,3 +54,15 @@ end
 if mods["RateCalculator"] then
     setSetting("rcalc-dismiss-tool-on-selection", true)
 end
+
+if mods["SpidertronEnhancements"] then
+    setSetting("spidertron-enhancements-increase-size", true)
+    setSetting("spidertron-enhancements-pipette-temporary-remote", true)
+end
+
+if mods["warptorio2"] then
+    setSetting("warptorio_ability_cooldown", 1)
+    setSetting("warptorio_ability_warp", 1)
+    setSetting("warptorio_biter_wavestart", 10)
+    setSetting("warptorio_water", true)
+end
