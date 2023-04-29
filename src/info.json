@@ -43,6 +43,7 @@
     "Milestones",
     "show-max-underground-distance",
     "SpidertronPatrols",
+    "? EvenDistributionLite",
     "? Kombat_Drones",
     "? aai-loaders",
     "? aai-containers",
@@ -52,7 +53,8 @@
     "? ArmouredBiters",
     "? Cold_biters",
     "? Explosive_biters",
-    "? Space_Exploration"
+    "? Space_Exploration",
+    "? warptorio2"
   ],
   "license": "MIT",
   "version": "1.1.5"
